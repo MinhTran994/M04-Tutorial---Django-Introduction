@@ -38,3 +38,39 @@ h4{
 .post > .date{
     float: right;
 }
+.topmenu,
+.topmenu:hover,
+.topmenu:visited{
+    color:#fff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.save{
+    float:right;
+}
+
+.btn-secondary,
+.btn-secondary:visited {
+    color: #c25100;
+    background: none;
+    border-color: #c25100;
+}
+.btn-secondary:hover{
+    color:#fff;
+    background-color: #c25100;
+}
+
+.post_form textarea,
+.post_form input {
+    width: 100%;
+}
+
+.post > .action{
+    float: right;
+    margin-left: 10px;
+}
+.comment {
+    margin: 20px 0px 20px 20px;
+}
